@@ -1,0 +1,1 @@
+ejemplo programa MapReduce para contar palabras.
